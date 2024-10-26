@@ -1,4 +1,3 @@
-
 ## Python
 .venv/
 
@@ -7,8 +6,15 @@ __pycache__/
 
 ## DVC
 
-# DVC will add new files after this line
+# DVC plots
+dvc_plots
 
-# Avoid pushing Apple's metadata files to your repository.
-.DS_Store
+# DVC will add new files after this line
 /model
+
+
+.DS_Store
+
+
+
+
